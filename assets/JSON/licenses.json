@@ -1,0 +1,27 @@
+{
+  "packages": [
+    { "name": "@expo-google-fonts/inter", "license": "Open Font License" },
+    {
+      "name": "@react-native-async-storage/async-storage",
+      "license": "MIT License"
+    },
+    { "name": "@react-navigation/bottom-tabs", "license": "MIT License" },
+    { "name": "@react-navigation/native", "license": "MIT License" },
+    { "name": "@react-navigation/stack", "license": "MIT License" },
+    { "name": "expo", "license": "MIT License" },
+    { "name": "expo-font", "license": "MIT License" },
+    { "name": "expo-splash-screen", "license": "MIT License" },
+    { "name": "expo-status-bar", "license": "MIT License" },
+    { "name": "moment-timezone", "license": "MIT License" },
+    { "name": "react", "license": "MIT License" },
+    { "name": "react-native", "license": "MIT License" },
+    { "name": "react-native-modalize", "license": "MIT License" },
+    { "name": "react-native-portalize", "license": "MIT License" },
+    { "name": "react-native-safe-area-context", "license": "MIT License" },
+    { "name": "react-native-screens", "license": "MIT License" },
+    { "name": "react-native-use-countdown", "license": "MIT License" },
+    { "name": "react-native-vector-icons", "license": "MIT License" },
+    { "name": "react-native-progress", "license": "MIT License" },
+    { "name": "expo-linear-gradient", "license": "MIT License" }
+  ]
+}

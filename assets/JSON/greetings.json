@@ -1,0 +1,17 @@
+{
+  "morningGreetings": [
+    "Rise and shine, time to seize the day!",
+    "Let's kickstart your day with productivity.",
+    "Ready to make the most of this fresh morning?"
+  ],
+  "afternoonGreetings": [
+    "How's your day going? Let's keep the momentum!",
+    "Ready to power through the rest of the day?",
+    "Let's tackle those tasks while there's still daylight!"
+  ],
+  "eveningGreetings": [
+    "Bed soon, or gearing up for a late-night study sesh?",
+    "Wind down your evening by wrapping up your tasks.",
+    "Let's tie up loose ends and prepare for a productive tomorrow."
+  ]
+}

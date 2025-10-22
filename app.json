@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "IFN666-A3",
+    "slug": "IFN666-A3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": null,
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Aspekta-400.ttf",
+            "./assets/fonts/Aspekta-450.ttf",
+            "./assets/fonts/Aspekta-500.ttf",
+            "./assets/fonts/Aspekta-550.ttf",
+            "./assets/fonts/Aspekta-600.ttf"
+          ]
+        }
+      ]
+    ]
+  }
+}

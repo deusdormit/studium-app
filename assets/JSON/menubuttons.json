@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "text": "Account Details",
+    "iconName": "person-circle",
+    "onPressAction": {
+      "navigateTo": "AccountDetails",
+      "isLoadingCheck": true,
+      "alertMessage": "Unable to connect to the server. Please check your internet connection or try again later."
+    }
+  },
+  {
+    "id": 2,
+    "text": "App Settings",
+    "iconName": "cog",
+    "onPressAction": {
+      "navigateTo": "AppSettings",
+      "isLoadingCheck": false
+    }
+  },
+  {
+    "id": 3,
+    "text": "About",
+    "iconName": "information-circle",
+    "onPressAction": {
+      "navigateTo": "About",
+      "isLoadingCheck": false
+    }
+  },
+  {
+    "id": 4,
+    "text": "Contact developer",
+    "iconName": "send",
+    "onPressAction": {
+      "id": 4
+    }
+  }
+]
