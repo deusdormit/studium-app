@@ -1,7 +1,7 @@
 <h1 align="center">⏲️ Studium - Study Tracker</h1>
 Studium is a simple, distraction-free productivity app to help you track your study sessions and meet your goals built in React Native. I built this for an introductory React & React Native university class.
 
-<br>📌 This app connects to a MySQL database. You can find the SQL schema used to create the required tables in the [Studium API repo](https://github.com/yourusername/studium-api).
+<br>📌 This app connects to a MySQL database. You can find the SQL schema used to create the required tables in the [Studium API repo](https://github.com/deusdormit/studium-API).
 
 <p align="center">
   <img src="https://github.com/deusdormit/studium-app/blob/main/assets/studium.png" alt="Studium app screens" width="700" />
